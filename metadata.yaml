@@ -1,0 +1,32 @@
+_repo: The-hoe-cake-of-Appomattox-b-Commandery-of-the-District-of-Columbia-War-Paper-93_70880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spear, Ellis
+    birthdate: 1834
+    deathdate: 1917
+    gutenberg_agent_id: '35937'
+    url: http://www.gutenberg.org/2009/agents/35937
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Spear
+description: ''
+gutenberg_issued: '2023-05-29'
+identifiers:
+  gutenberg: '70880'
+language: en
+pgterms:marc904: https://archive.org/details/hoecakeofappomat00spea/page/n1/mode/2up
+pgterms:marc905: 20210914211414spear
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Charlene Taylor, Donald Cummings, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bno publisher listed. see LoC permalink below,
+  $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The hoe cake of Appomattox : $b Commandery of the District of Columbia, War
+  Paper 93'
+url: http://www.gutenberg.org/ebooks/70880
