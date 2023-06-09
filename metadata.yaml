@@ -1,5 +1,8 @@
 _repo: The-hoe-cake-of-Appomattox-b-Commandery-of-the-District-of-Columbia-War-Paper-93_70880
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70880-h/images/cover.jpg
 creator:
   author:
     agent_name: Spear, Ellis
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35937
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Spear
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70880#The-hoe-cake-of-Appomattox-b-Commandery-of-the-District-of-Columbia-War-Paper-93
 gutenberg_issued: '2023-05-29'
 identifiers:
   gutenberg: '70880'
